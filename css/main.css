@@ -1,0 +1,130 @@
+#navbar{
+    background-color: rgb(15, 202, 30);
+}
+.head{
+   padding-right: 12px;
+   height: 30px;
+   border-left: 2px solid white;
+   border-right: 2px solid white;
+
+}
+.social-media{
+    height: 30px;
+    border-left: 2px solid white;
+    border-top: 5px;
+}
+#fa{
+    font-size: 20px;
+    color: white;
+    padding-top: 5px;
+    padding-right: 10px;
+    padding-left: 10px;
+    
+}
+#fa:hover{
+    color: black;
+}
+.head span{
+      font-size: 15px;
+      font-weight: bolder;
+      color: white;
+}
+
+#text{
+    font-size: 25px;
+    font-weight: bolder;
+    text-decoration: none;
+    color: black;
+    
+}
+#text:hover{
+    color: white;
+}
+
+ul{
+    padding-top: -5%;
+    display: flex;
+    
+}
+li{
+    display: inline;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+footer{
+    background-color: rgb(15, 202, 30);
+    color: white;
+}
+#marquee{
+    width: 100%;
+    direction: left;
+    height: 70px;
+    padding-top: 20px;
+}
+
+#flow{
+    background-color: darkcyan;
+    
+}
+h5 a{
+    color: lightsalmon;
+}
+h5 a:hover{
+    color: rgb(16, 202, 235);
+}
+#item{
+    color:black;
+    font-size: 15px;
+}
+#item:hover{
+    color: white;
+}
+#item-active{
+    color: rgb(9, 110, 35);
+    font-size: 15px;
+
+}
+#item-active:hover{
+    color: white;
+}
+#drop{
+    color: tomato;
+}
+#drop:hover{
+    color: purple;
+}
+#box-text a{
+    color: white;
+    font-size: 15px;
+    padding-top: 20px;
+}
+#box-text a:hover{
+    color: wheat;
+}
+#b{
+    color: rgb(94, 93, 93);
+    font-size: 25px;font-family: 'Times New Roman', Times, serif;
+    padding-bottom: 10px;
+    padding-top: 15px;
+    font-size: 30px;
+}
+#dest{
+    margin-bottom: 40px;
+}
+#dest h6{
+    color: rgb(10, 10, 10);
+    text-align: center;
+    font-size: 15px;
+    padding-bottom: 10px;
+    padding-top: 7px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#b1{
+    color: rgb(94, 93, 93);
+    font-size: 25px;font-family: 'Times New Roman', Times, serif;
+    padding-bottom: 10px;
+    padding-top: 60px;
+    font-size: 30px;
+}
